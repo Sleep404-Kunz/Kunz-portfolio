@@ -7,9 +7,8 @@
 I am a recent graduate from the George Brown College Wireless Networking Ontario Graduate certificate program and currently studying in the Cybersecurity program. I am a curious thinker with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My education has led me to explore the field of cybersecurity that is intertwined with the field of computer systems and networking. I am eager to use my skills and knowledge as foundation and aim to dive into the cybersecurity field. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
